@@ -1,0 +1,5 @@
+Django==4.2
+psycopg2==2.9.6
+Pillow==9.5.0
+sqlparse==0.4.3
+celery==5.2.7
